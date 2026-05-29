@@ -13,4 +13,4 @@ A desktop application that simulates the core functionality of a video platform.
 * **Data Persistence:** Save and load platform state using local file storage.
 
 ## 🎓 Academic Context
-This project was developed for the [Course Name] module at the Technical University of Crete (TUC), achieving a grade of 7/10.
+This project was developed for the [OOP Java Programming Class] module at the Technical University of Crete (TUC), achieving a grade of 7/10.
